@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 class ATM
 {
-    static double balance = 1000;
-    static List<string> transactions = new List<string>(); // Stores transaction history
+    static double balance = 2000;
+    static List<string> transactions = new List<string>(); 
 
     static void Main()
     {
